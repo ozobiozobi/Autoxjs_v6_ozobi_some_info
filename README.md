@@ -12,7 +12,8 @@
 
 ![image](https://github.com/ozobiozobi/Autoxjs_v6_ozobi_some_info/blob/master/src/img/donation/donation_QR_ozobi.png)
 
-### 目前魔改开发者：ozobi
+### 目前魔改开发者：
+#### ozobi <https://github.com/ozobiozobi>
 
     如果后面有其他开发者加入，充电的时候可以备注本次支持的开发者、版本或指定功能，由 ozobi 进行统计并分发
 
