@@ -9,7 +9,7 @@ layout: home
 
     备注可以留下想说的话，或者反馈bug，期待的功能等等，后面会做一个页面进行展示，但是不要打广告哈
 
-### 如果图片无法显示(应该是需要魔法/梯子)，可以自行加入 QQ 群：1014521824
+### 如果图片无法显示(应该是需要魔法/梯子)，可以自行搜索加入 QQ 群：1014521824
 
 ![image](https://github.com/ozobiozobi/Autoxjs_v6_ozobi_some_info/blob/master/src/img/qq/qrcode.png)
 
