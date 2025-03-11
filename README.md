@@ -11,7 +11,6 @@ layout: home
 
 ### 如果图片无法显示(应该是需要魔法/梯子)，可以加入 QQ 群或添加 ozobi QQ：1027113568
 
-![image](https://github.com/ozobiozobi/Autoxjs_v6_ozobi_some_info/blob/master/src/img/donation/donation_QR_ozobi.png)
 ![image](https://github.com/ozobiozobi/Autoxjs_v6_ozobi_some_info/blob/master/src/img/donation/donation_qr_qq.png)
 
 ### 目前魔改开发者：

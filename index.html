@@ -1,1 +1,95 @@
-<h1>关于魔改</h1>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>魔改充电</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  .header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  .content {
+    display: flex;
+    flex: 1;
+  }
+  .sidebar-left, .sidebar-right {
+    background-color: #B0C4DE;
+    width: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .main {
+    flex: 1;
+    padding: 10px;
+    background-color: #E0FFFF;
+  }
+  .charge-record {
+    margin-bottom: 20px;
+    background-color: #FFC0CB;
+    padding: 10px;
+  }
+  .footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  .charge-info, .developer-info {
+    background-color: #F0F8FF;
+    margin: 10px;
+    padding: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">Autotoxjs_v6_ozobi（固定浮动）</div>
+  <div class="content">
+    <div class="sidebar-left">
+      <h3>充电二维码</h3>
+      <div class="qr-code">[二维码图片]</div>
+      <h3>充电说明</h3>
+      <p>[充电说明内容]</p>
+    </div>
+    <div class="main">
+      <h3>充电记录（垂直滚动）</h3>
+      <div class="charge-record">
+        <div>头像</div>
+        <div>昵称</div>
+        <div>固定电量（90 — 100%）</div>
+        <div>留言</div>
+      </div>
+      <div class="charge-record">
+        <div>头像</div>
+        <div>昵称</div>
+        <div>固定电量（45 — 50%）</div>
+        <div>留言</div>
+      </div>
+    </div>
+    <div class="sidebar-right">
+      <div class="charge-info">
+        <h4>QQ群</h4>
+        <p>[QQ群信息]</p>
+      </div>
+      <div class="developer-info">
+        <h4>开发者信息</h4>
+        <p>[开发者信息]</p>
+      </div>
+    </div>
+  </div>
+  <div class="footer">（固定浮动）切换排序依据 电量/时间</div>
+</div>
+</body>
+</html>
