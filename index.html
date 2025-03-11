@@ -51,11 +51,28 @@
     margin: 10px;
     padding: 10px;
   }
+  .fixed-button {
+            position: fixed;
+            bottom: 20px; /* 距离页面底部20px */
+            right: 20px;  /* 距离页面右侧20px */
+            width: 50px;  /* 按钮宽度 */
+            height: 50px; /* 按钮高度 */
+            background-color: #4CAF50; /* 按钮背景颜色 */
+            color: white;             /* 按钮文字颜色 */
+            border: none;             /* 无边框 */
+            border-radius: 50%;       /* 圆形按钮 */
+            cursor: pointer;          /* 鼠标悬停时显示手型图标 */
+            font-size: 20px;          /* 按钮文字大小 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+        }
 </style>
 </head>
 <body>
 <div class="container">
-  <div class="header">Autotoxjs_v6_ozobi（固定浮动）</div>
+  <div class="header">Autoxjs_v6_ozobi（固定浮动）</div>
   <div class="content">
     <div class="sidebar-left">
       <h3>充电二维码</h3>
@@ -77,6 +94,9 @@
         <div>固定电量（45 — 50%）</div>
         <div>留言</div>
       </div>
+      <button class="fixed-button" onclick="alert('切换排序')">
+        🚀
+      </button>
     </div>
     <div class="sidebar-right">
       <div class="charge-info">
@@ -89,7 +109,6 @@
       </div>
     </div>
   </div>
-  <div class="footer">（固定浮动）切换排序依据 电量/时间</div>
 </div>
 </body>
 </html>
