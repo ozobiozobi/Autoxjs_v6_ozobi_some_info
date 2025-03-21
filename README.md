@@ -8,7 +8,7 @@
 ---
 ### 目前魔改开发者：
 
-#### ozobi <https://github.com/ozobiozobi>
+#### ![image](https://avatars.githubusercontent.com/u/102951380?v=4) ozobi <https://github.com/ozobiozobi>
 #### BMX <https://github.com/bysmjs>
 
     如果后面有其他开发者加入，充电的时候可以备注本次支持的开发者、版本或指定功能，由 ozobi 进行统计并分发
