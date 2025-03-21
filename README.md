@@ -10,6 +10,7 @@
 
 #### <img src="https://avatars.githubusercontent.com/u/102951380?v=4" alt="ozobi" style="width: 50px; height: auto;"> ozobi <https://github.com/ozobiozobi>
 #### <img src="https://avatars.githubusercontent.com/u/140179755?v=4" alt="ozobi" style="width: 50px; height: auto;"> BMX <https://github.com/bysmjs>
+#### <img src="https://avatars.githubusercontent.com/u/32764266?v=4" alt="xxxxue" style="width: 50px; height: auto;"> xxxxue https://github.com/xxxxue
 
     如果后面有其他开发者加入，充电的时候可以备注本次支持的开发者、版本或指定功能，由 ozobi 进行统计并分发
 
